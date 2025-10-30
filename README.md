@@ -11,6 +11,9 @@ Supabase is a combination of open source tools. Building the features of Firebas
 3. [Supabase Studio/WebUI Authentication Setup](03-Studio-authentication.md)
 4. [Supabase Backup and Restore Process](04-backup-restore.md)
 
+<img width="1908" height="907" alt="image" src="https://github.com/user-attachments/assets/398ef543-a441-4685-a4d6-c56b565ab0f2" />
+<img width="1912" height="885" alt="Screenshot 2025-10-17 153551" src="https://github.com/user-attachments/assets/dc8ac23a-ba16-4b43-b6f5-186f252c54a7" />
+
 ##  Feedback is very much appreciated
 
 Based on the feedback this repo will be updated. Feel free to contribute or use this for your own study!
